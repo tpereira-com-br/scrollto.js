@@ -1,10 +1,11 @@
-/*
-Package: Scrollto.js;
-File: scrollto.slim.js;
-Release: Stable / 1.0;
-Developed by: Thiago Costa Pereira - contato@tpereira.com.br
-License: GPLv3 - https://www.gnu.org/licenses/gpl-3.0.html
-*/ 
+/**
+@Package - Scrollto.js;
+@File - scrollto.slim.js;
+@Release - Stable / 1.0;
+@Developer - Thiago Costa Pereira - contato@tpereira.com.br
+@License - GPLv3 - https://www.gnu.org/licenses/gpl-3.0.html
+@Github - https://github.com/tpereira-com-br/scrollto.js/blob/master/src/1.0/scrollto.slim.js
+*/
 (function(){
     var move;
     //Escuta os elementos de clique no documento;
