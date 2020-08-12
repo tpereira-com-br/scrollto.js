@@ -26,9 +26,9 @@ As versões mais recentes estão na pasta "src/currentversion".
 Disponível em breve!
 
 #### scrollto.min.js
-`` `html
+```html
 <script src = "scrollto.min.js"></script>
-`` `
+```
 
 ## Uso
 
@@ -38,19 +38,19 @@ Disponível em breve!
 #### scrollto.min.js
 
 1. Adicione o atributo "scrollto" no elemento em que será clicado, coloque como valor do atributo o seletor CSS do elemento alvo:
-`` `html
+```html
 <a scrollto = "Seletor CSS do elemento alvo">
-`` `
+```
 
 1. 1. Para ir para o topo da tela, use:
-`` `html
+```html
 <a scrollto = "body">
-`` `
+```
 
 2. Se houver um menu fixo no topo, basta adicionar a classe "menufixedtop":
-`` `html
+```html
 <div class = "menu menufixedtop">
-`` `
+```
 
 ## Exemplo de código
 
