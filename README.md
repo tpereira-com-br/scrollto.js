@@ -6,7 +6,7 @@ Rola a página até o elemento fornecido. Desenvolvido em Javascript puro, sem j
 
 ## Demonstração ao vivo
 
-[Iniciar demonstração ao vivo] (https://codepen.io/tpereira-com-br/pen/ZEWERNx)
+[Iniciar demonstração ao vivo](https://codepen.io/tpereira-com-br/pen/ZEWERNx)
 
 ## Instalando
 
@@ -15,7 +15,7 @@ Disponível em breve!
 Precisamos de 200 estrelas no repositório para ser aprovado no cdnjs. Colaborar!
 
 ### Baixar
-[Baixe Scrollto.js] (https://github.com/tpereira-com-br/scrollto.js) do GitHub.
+[Baixe Scrollto.js](https://github.com/tpereira-com-br/scrollto.js) do GitHub.
 
 ### Adicionar Script
 Basta adicionar o script correspondente ao seu site/aplicativo. Nenhum outro script é necessário.
@@ -54,8 +54,8 @@ Disponível em breve!
 
 ## Exemplo de código
 
-[Iniciar demonstração ao vivo] (https://codepen.io/tpereira-com-br/pen/ZEWERNx)
+[Iniciar demonstração ao vivo](https://codepen.io/tpereira-com-br/pen/ZEWERNx)
 
 ## Licença
 
-Veja o arquivo [LICENSE] (https://github.com/tpereira-com-br/scrollto.js/blob/master/LICENSE).
+Veja o arquivo [LICENSE](https://github.com/tpereira-com-br/scrollto.js/blob/master/LICENSE).
