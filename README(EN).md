@@ -37,7 +37,7 @@ Avaliable soon!
 
 #### scrollto.min.js
 
-1. Add in the element that will be clicked the attribute:
+1. Add the "scrollto" attribute to the element that will be clicked, set the target element's CSS selector as the attribute value:
 ```html
 <a scrollto = "CSS selector of the target element">
 ```
